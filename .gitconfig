@@ -1,0 +1,5 @@
+[user]
+	name = Dan Lichtenstein
+	email = lichtenstein.dan@gmail.com
+[credential]
+	helper = cache --timeout=3600
